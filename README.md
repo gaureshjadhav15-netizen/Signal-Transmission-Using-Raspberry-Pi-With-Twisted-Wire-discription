@@ -1,0 +1,2 @@
+# Signal-Transmission-Using-Raspberry-Pi-With-Twisted-Wire-discription
+Implemented a communication system using Raspberry Pi as transmitter and receiver with twisted pair wire, ensuring reliable signal transfer by reducing noise and interference. Demonstrated digital signal transmission, attenuation, and error minimization while gaining hands-on experience in Python, hardware setup, and real-time data transfer.
